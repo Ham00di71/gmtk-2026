@@ -12,6 +12,6 @@ And focus on a mechanic or a an idea that you want to see it execute and just cr
 
 Best of Luck
 ---
-Itch Page : [Game Maker Itch Page](https://itch.io/jam/gmtk-jam-2026)
+Itch Page : [Game Maker Itch Page](https://itch.io/jam/gmtk-jam-2026)</br>
 Project Page : [Itch Dashboard](https://itch.io/dashboard)
----
+
