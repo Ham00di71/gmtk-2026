@@ -1,10 +1,10 @@
-#GMTK 2026
+# GMTK 2026
 Gamemakertoolkit 2026 is a video game challenge for 4 days
 
-##What I am doing here?
+## What I am doing here?
 I am creating a game solo in gamemaker. We'll see what will happen
 
-##Things to keep in mind
+## Things to keep in mind
 Ideate - Build - Debug - Polish
 
 The more you can build the better.
