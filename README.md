@@ -8,9 +8,9 @@ I am creating a game solo in gamemaker. We'll see what will happen
 Ideate - Build - Debug - Polish
 
 The more you can build the better.
-
 And focus on a mechanic or a an idea that you want to see it execute and just create the level 1 version of it
----
+
 Best of Luck
 ---
 Itch Page : [Game Maker Itch Page](https://itch.io/jam/gmtk-jam-2026)
+Project Page : [Itch Dashboard](https://itch.io/dashboard)
