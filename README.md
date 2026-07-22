@@ -2,7 +2,7 @@
 Gamemakertoolkit 2026 is a video game challenge for 4 days
 
 ## What I am doing here?
-I am creating a game solo in gamemaker. We'll see what will happen
+I am creating a game solo in gamemaker. We'll see what will happen. First time making a game here
 
 ## Things to keep in mind
 Ideate - Build - Debug - Polish
@@ -14,3 +14,4 @@ Best of Luck
 ---
 Itch Page : [Game Maker Itch Page](https://itch.io/jam/gmtk-jam-2026)
 Project Page : [Itch Dashboard](https://itch.io/dashboard)
+---
